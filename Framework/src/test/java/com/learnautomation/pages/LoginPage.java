@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 
 public class LoginPage {
 	WebDriver driver;
-	
+	//this is new comment from faheem qamar
 	public LoginPage(WebDriver ldriver)//create the constructor
 	{
 		this.driver=ldriver;
